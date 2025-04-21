@@ -1,3 +1,3 @@
 Visit my Portfolio
-https://pulmawave.github.io/portfolio/
+https://thinhnc.netlify.app/
 
